@@ -1,0 +1,15 @@
+C:\Csharp\events\obj\Debug\net8.0\events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\events\obj\Debug\net8.0\events.AssemblyInfoInputs.cache
+C:\Csharp\events\obj\Debug\net8.0\events.AssemblyInfo.cs
+C:\Csharp\events\obj\Debug\net8.0\events.csproj.CoreCompileInputs.cache
+C:\Csharp\events\obj\Debug\net8.0\events.sourcelink.json
+C:\Csharp\events\bin\Debug\net8.0\events.exe
+C:\Csharp\events\bin\Debug\net8.0\events.deps.json
+C:\Csharp\events\bin\Debug\net8.0\events.runtimeconfig.json
+C:\Csharp\events\bin\Debug\net8.0\events.dll
+C:\Csharp\events\bin\Debug\net8.0\events.pdb
+C:\Csharp\events\obj\Debug\net8.0\events.dll
+C:\Csharp\events\obj\Debug\net8.0\refint\events.dll
+C:\Csharp\events\obj\Debug\net8.0\events.pdb
+C:\Csharp\events\obj\Debug\net8.0\events.genruntimeconfig.cache
+C:\Csharp\events\obj\Debug\net8.0\ref\events.dll

@@ -5,9 +5,9 @@ class Book
     public event EventHandler<string> BookPublished;
     public event EventHandler<string> BookPurchased;
 
-    private string title;
+    private string? title;
 
-    public Book(string title)
+    public Book(string? title)
     {
         this.title = title;
     }
@@ -60,23 +60,3 @@ class BookConsumer
     }
 }
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Book book = new Book("C# Programming for Beginners");
-        BookConsumer consumer = new BookConsumer();
-
-        consumer.Subscribe(book);
-
-        // Simulate book events
-        book.Publish();
-        book.Purchase();
-
-        consumer.Unsubscribe(book);
-
-        // No more event handling after unsubscribing
-        book.Publish();
-        book.Purchase();
-    }
-}
